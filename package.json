@@ -1,0 +1,19 @@
+{
+  "name": "App Hero",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "build:prod": " --prefix ./backend"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felipeurbansk/react-be-the-hero.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/felipeurbansk/react-be-the-hero/issues"
+  },
+  "homepage": "https://github.com/felipeurbansk/react-be-the-hero#readme"
+}
