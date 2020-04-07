@@ -23,6 +23,7 @@ export default function Incident() {
 
     async function loadIncidents() {
 
+
         if (loading) {
             return;
         }
